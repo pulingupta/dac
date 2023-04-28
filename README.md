@@ -32,7 +32,7 @@ python second.py
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed as None
 
 ## Contributing
 
