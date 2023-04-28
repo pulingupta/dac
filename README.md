@@ -1,6 +1,6 @@
 # DAC Demo
 
-The purpose of this project is to provide a solution to a specific problem or to accomplish a particular goal.
+The purpose of this project is to demo use of diagram as a code. The demo repo uses library from azure to create basic diagram for demo.
 
 ## Dependencies
 
